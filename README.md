@@ -1,19 +1,19 @@
 <h1 align="center">Sergio Rondon Polanco</h1>
 <p align="center"><strong>AI Engineer</strong></p>
-<p align="center">RAG, análisis de documentos y chatbots con modelos de lenguaje.</p>
+<p align="center">Agents and LLM applications with LangChain, LangGraph, pgvector, and AWS.</p>
 
-Construyo aplicaciones que recuperan información de un documento y responden usando ese contexto. El trabajo reciente está en Python con LangChain, OpenAI y pgvector, y en .NET con Semantic Kernel.
+I build agents that retrieve information from documents and answer from that context. Recent work is in Python with LangChain and LangGraph, embeddings stored in pgvector, and deployment on AWS.
 
-### Proyectos
+### Projects
 
-| Proyecto | Qué hace |
+| Project | What it does |
 | --- | --- |
-| [rag-langchain](https://github.com/srp16/rag-langchain) | RAG de consola: parte un PDF, guarda embeddings en Postgres y responde con los fragmentos más cercanos |
-| [cv-analizer-langchain](https://github.com/srp16/cv-analizer-langchain) | Compara un CV con una oferta y devuelve un match estructurado |
-| [chat-langchain](https://github.com/srp16/chat-langchain) | Chatbot de consola y análisis de sentimiento de reseñas |
-| [SemanticKernelExamples](https://github.com/srp16/SemanticKernelExamples) | Ejemplos de orquestación con Semantic Kernel |
-| [SaludSoftMl](https://github.com/srp16/SaludSoftMl) | Clasificación con modelos de machine learning sobre datos de diabetes |
+| [rag-langchain](https://github.com/srp16/rag-langchain) | Console RAG: splits a PDF, stores embeddings in Postgres with pgvector, and answers from the closest chunks |
+| [cv-analizer-langchain](https://github.com/srp16/cv-analizer-langchain) | Compares a resume with a job post and returns a structured match |
+| [chat-langchain](https://github.com/srp16/chat-langchain) | Console chatbot and review sentiment analysis |
+| [SemanticKernelExamples](https://github.com/srp16/SemanticKernelExamples) | Orchestration examples with Semantic Kernel |
+| [SaludSoftMl](https://github.com/srp16/SaludSoftMl) | Machine learning classification on a diabetes dataset |
 
 ### Stack
 
-`Python` · `LangChain` · `OpenAI` · `pgvector` · `C#` · `Semantic Kernel`
+`Python` · `LangChain` · `LangGraph` · `Agents` · `pgvector` · `AWS` · `OpenAI` · `C#` · `Semantic Kernel`
